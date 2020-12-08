@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Barco" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAoBCAAQAAAAAAAAgAAAAAAEAAAAIIQgA=</HashCode>
+      <FileName>Barco.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Juego" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQgAACADRAAAAAIAAAAAQAABAEAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jugador" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAgBAAxADEAYwAAAABAAAoAACQACAAAAAIAFAAAA=</HashCode>
+      <FileName>Jugador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListNodoBarco" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAhAAAAAACAAgAAAAAQQAQCIAAABEAAAAAAgIBIA=</HashCode>
+      <FileName>ListNodoBarco.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Misil" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGAAAAgACQAIAAAAAAAAAAAAAAgAAIgAwAAAA=</HashCode>
+      <FileName>Misil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodoBarco" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAMQBACAARgAAAAQAQAAAAAIAABIQCAAAgAAAAA=</HashCode>
+      <FileName>NodoBarco.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
